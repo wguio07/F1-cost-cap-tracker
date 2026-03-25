@@ -127,9 +127,7 @@ Gross overspend of £3,460 was partially offset by £1,070 in savings across fou
 
 **Wolfgang Guio**
 MSc Motorsport Engineering — Distinction, Oxford Brookes University
-Stores Technician, Williams Racing (2026)
-Technical Procurement, Veolia (2021)
-BI Dashboard Development, Coca-Cola FEMSA (2018–19)
+
 
 [LinkedIn](https://www.linkedin.com/in/wolfgangguio) · [GitHub](https://github.com/wguio07) · ukwolfangguio@gmail.com
 
