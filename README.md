@@ -2,7 +2,7 @@
 
 A Formula SAE budget compliance workbook built on the **FIA Financial Regulations cost cap framework** — demonstrating cost engineering, sub-component variance analysis, and financial reporting methodology applicable to professional motorsport finance roles.
 
-**[→ View interactive dashboard](https://wguio07.github.io/F1-cost-cap-tracker/)**
+
 ---
 
 ## Quick Start
